@@ -8,3 +8,7 @@ mt-5
 <div class="border border-1 border-dark">
 
 d-none === display:none
+
+toast 띵! 하고 나타남 카카오 메시지가 바탕화면 오른쪽 밑에 뜨듯
+
+navs and navbar
