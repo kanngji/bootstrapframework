@@ -1,0 +1,36 @@
+.content {
+  height: 100vh;
+}
+
+.form-check-input:checked {
+  background: #673ab7;
+  border-color: #673ab7;
+}
+
+.btn-dark {
+  background: #673ab7 !important;
+}
+
+.bi {
+  padding: 11px;
+  width: 38px;
+  text-align: center;
+  text-decoration: none;
+  margin: 1px 3px;
+  border-radius: 50%;
+}
+
+.bi-facebook {
+  background: #3b5998;
+  color: #fff;
+}
+
+.bi-twitter {
+  background: #55acee;
+  color: #fff;
+}
+
+.bi-google {
+  background: #dd4b39;
+  color: #fff;
+}
